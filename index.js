@@ -12,12 +12,12 @@ function play(question,answer){
   console.log("your current score:",score)}
 
   var questionOne = {
-    question: "place? ",
-    answer: "delhi"
+    question: "Article 21 of Indian Constitution? ",
+    answer: "Right to life"
   }
     var questionTwo ={
-    question : "love? ",
-    answer: "jatin"
+    question : "Battle of Buxar? ",
+    answer: "1764"
     
     }
     var questions = [questionOne,questionTwo]
